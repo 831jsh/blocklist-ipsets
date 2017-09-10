@@ -1,0 +1,38 @@
+[
+	{
+		"code": "BR",
+		"value": 7
+	},
+	{
+		"code": "CN",
+		"value": 54
+	},
+	{
+		"code": "EG",
+		"value": 1
+	},
+	{
+		"code": "IL",
+		"value": 1
+	},
+	{
+		"code": "IR",
+		"value": 2
+	},
+	{
+		"code": "MX",
+		"value": 2
+	},
+	{
+		"code": "NL",
+		"value": 3
+	},
+	{
+		"code": "RU",
+		"value": 6
+	},
+	{
+		"code": "UA",
+		"value": 12
+	}
+]
